@@ -42,7 +42,7 @@ if (OperatingSystem.IsLinux())
 
 Este projeto é compatível com Windows e Linux. No entanto, o método `LinuxChassisTypes.Get()` depende do comando `dmidecode`, que pode não estar disponível em todos os sistemas Linux.
 
-#Licença
+## Licença
 
 Este projeto é licenciado sob a licença MIT.
 
